@@ -29,9 +29,9 @@ I am an iOS & macOS apps Developer <img src="https://media.giphy.com/media/WUlpl
 
 - :seedling: Exploring TDD, Combine, SwiftUI.
 
-- :zap: In my free time, I solve problems on LeetCode and read tech articles.
+- :zap: In my free time, I watch tech tutorial videos on Youtube and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-MAfham-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/m-afham/)
+- :mailbox:How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-MAfham-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/m-afham/)
 
 ---
 
