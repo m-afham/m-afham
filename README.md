@@ -5,11 +5,13 @@
   <a href="https://www.linkedin.com/in/m-afham/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <!---
   <a href="https://www.youtube.com/channel/UCd6hUPEcUowvwZRjms4nxxw">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
+  --->
   <a href="https://stackoverflow.com/users/8451247/m-afham?tab=profile">
-    <img src="https://img.shields.io/badge/Stackoverflow-yellow?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stackoverflow Badge"/>
+    <img src="https://img.shields.io/badge/Stackoverflow-red?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stackoverflow Badge"/>
   </a>
 </div>
  <img src="https://komarev.com/ghpvc/?username=m-afham&style=flat-square&color=blue" alt=""/>
