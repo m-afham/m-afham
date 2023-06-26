@@ -56,3 +56,6 @@ I am an iOS & macOS apps Developer <img src="https://media.giphy.com/media/WUlpl
 
 ### Wanna Support? 
 <a href="https://www.buymeacoffee.com/mafham"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=mafham&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"  a>
+
+![bmc_qr](https://github.com/m-afham/m-afham/assets/35783310/a077ee4b-e372-4788-bd25-97d3aa8b9c49)
+
