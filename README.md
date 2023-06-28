@@ -31,7 +31,7 @@ I am an iOS & macOS apps Developer <img src="https://media.giphy.com/media/WUlpl
 
 - :seedling: Exploring TDD, Combine, SwiftUI.
 
-- :zap: In my free time, I watch tech tutorial videos on Youtube and read tech articles.
+- :zap: In my free time, I watch tech tutorial videos on Youtube, and read and write tech articles.
 
 ---
 
