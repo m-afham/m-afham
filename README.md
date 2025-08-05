@@ -3,6 +3,7 @@
 **Senior iOS & macOS Developer** | **Mobile Architecture Specialist**
 
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8451247/m-afham?tab=profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-afham)
 [![Profile Views](https://komarev.com/ghpvc/?username=m-afham&style=flat&color=007AFF)](https://github.com/m-afham)
 
 <div align="center">
