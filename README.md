@@ -88,16 +88,6 @@ I write about the last 10% — the details that separate working from great.
 
 ---
 
-## Development Analytics
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=m-afham&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## Core Expertise
 
 ### **iOS & macOS Development**
