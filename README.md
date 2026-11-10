@@ -19,10 +19,7 @@
 
 ## Featured
 
-<a href="https://github.com/m-afham/AirCursor"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./cards/spotlight-dark.svg">
-  <img src="./cards/spotlight-light.svg" width="100%" alt="AirCursor: use your AirPods as a mouse on macOS. Turn your head to point, rest on a button to click.">
-</picture></a>
+<a href="https://github.com/m-afham/AirCursor"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/spotlight-dark.svg"><img src="./cards/spotlight-light.svg" width="100%" alt="AirCursor: use your AirPods as a mouse on macOS. Turn your head to point, rest on a button to click."></picture></a>
 
 <p align="center">
   <a href="https://github.com/m-afham/AirCursor/releases/latest/download/AirCursor.zip"><img src="https://img.shields.io/badge/Download_for_Mac-AirCursor.zip-0A84FF?style=for-the-badge&logo=apple&logoColor=white" alt="Download AirCursor for Mac"></a>
