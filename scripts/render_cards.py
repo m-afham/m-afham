@@ -59,10 +59,12 @@ FONT = "-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Hel
 THEMES = {
     "light": dict(card="#F5F5F7", stroke="#E5E5EA", ink="#1D1D1F", sub="#6E6E73", faint="#D2D2D7",
                   chip="#E8E8ED", blue="#0071E3", green="#28A745", window="#FFFFFF", bar="#D2D2D7",
-                  on_blue="#FFFFFF"),
+                  on_blue="#FFFFFF", grid_accent=("#0071E3", 1),
+                  grid_ops=[.08, .14, .06, .12, 0, .18, .05, .1, .15]),
     "dark": dict(card="#161618", stroke="#2C2C2E", ink="#F5F5F7", sub="#98989D", faint="#3A3A3C",
                  chip="#2C2C2E", blue="#0A84FF", green="#30D158", window="#1C1C1E", bar="#3A3A3C",
-                 on_blue="#FFFFFF"),
+                 on_blue="#FFFFFF", grid_accent=("#F5F5F7", .22),  # monochrome in dark: no bright blue tile
+                 grid_ops=[.05, .09, .04, .08, 0, .11, .035, .065, .1]),
 }
 
 
@@ -162,7 +164,7 @@ def hero(t, d):
     tiles = []
     for i in range(9):
         cx, cy = 668 + (i % 3) * 62, 58 + (i // 3) * 62
-        fill, op = (t["blue"], 1) if i == 4 else (t["ink"], [.08, .14, .06, .12, 0, .18, .05, .1, .15][i])
+        fill, op = t["grid_accent"] if i == 4 else (t["ink"], t["grid_ops"][i])
         tiles.append(f'<rect x="{cx}" y="{cy}" width="50" height="50" rx="12" fill="{fill}" fill-opacity="{op}" '
                      f'style="transform-box:fill-box;transform-origin:center;animation:pop .6s cubic-bezier(.2,.8,.2,1) {0.8+i*0.06:.2f}s both"/>')
     body = f"""
