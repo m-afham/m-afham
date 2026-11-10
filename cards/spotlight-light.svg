@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="290" viewBox="0 0 880 290" role="img" aria-label="AirCursor: 116 stars" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', Helvetica, Arial, sans-serif"><title>AirCursor: 116 stars</title><style>
+@keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+@keyframes pop{0%{opacity:0;transform:scale(.6)}70%{opacity:1;transform:scale(1.06)}100%{opacity:1;transform:scale(1)}}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
+@keyframes ring{0%{r:5;opacity:.6}100%{r:13;opacity:0}}
+@keyframes nudge{0%,80%,100%{transform:translateX(0)}90%{transform:translateX(4px)}}
+@keyframes grow{from{transform:scaleY(0)}to{transform:scaleY(1)}}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-4px)}}
+.r{animation:rise .8s cubic-bezier(.2,.8,.2,1) both}
+.f{animation:fade .8s ease both}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}.cnt{display:none}.final{opacity:1!important}}</style>
+<rect x="1" y="1" width="878" height="288" rx="24" fill="#F5F5F7" stroke="#E5E5EA"/>
+<g class="r" style="animation-delay:.1s">
+  <rect x="40" y="38" width="218" height="26" rx="13" fill="#F56300" opacity=".14"/>
+  <text x="54" y="56" font-size="12" font-weight="700" letter-spacing="1.2" fill="#F56300">FEATURED · OPEN SOURCE</text>
+</g>
+<g class="r" style="animation-delay:.25s"><text x="38" y="114" font-size="44" font-weight="700" letter-spacing="-1" fill="#1D1D1F">AirCursor</text></g>
+<g class="r" style="animation-delay:.4s"><text x="40" y="150" font-size="21" font-weight="600" fill="#1D1D1F">Your AirPods are now a mouse.</text></g>
+<g class="r" style="animation-delay:.55s">
+  <text x="40" y="180" font-size="15" fill="#6E6E73">Turn your head to point. Rest on a button to click.</text>
+  <text x="40" y="201" font-size="15" fill="#6E6E73">Hands-free, private, open source, on macOS.</text>
+</g>
+<g class="r" style="animation-delay:.7s">
+  <path d="M48 230l3.1 6.3 6.9 1-5 4.9 1.2 6.9-6.2-3.3-6.2 3.3 1.2-6.9-5-4.9 6.9-1z" fill="#F56300"/>
+  <text class="cnt" x="64" y="246" font-size="18" font-weight="700" fill="#1D1D1F" opacity="0">20<set attributeName="opacity" to="1" begin="0.900s" dur="0.061s"/></text><text class="cnt" x="64" y="246" font-size="18" font-weight="700" fill="#1D1D1F" opacity="0">31<set attributeName="opacity" to="1" begin="0.961s" dur="0.061s"/></text><text class="cnt" x="64" y="246" font-size="18" font-weight="700" fill="#1D1D1F" opacity="0">40<set attributeName="opacity" to="1" begin="1.022s" dur="0.061s"/></text><text class="cnt" x="64" y="246" font-size="18" font-weight="700" fill="#1D1D1F" opacity="0">47<set attributeName="opacity" to="1" begin="1.083s" dur="0.061s"/></text><text class="cnt" x="64" y="246" font-size="18" font-weight="700" fill="#1D1D1F" opacity="0">54<set attributeName="opacity" to="1" begin="1.144s" dur="0.061s"/></text><text class="cnt" x="64" y="246" font-size="18" font-weight="700" fill="#1D1D1F" opacity="0">60<set attributeName="opacity" to="1" begin="1.206s" dur="0.061s"/></text><text class="cnt" x="64" y="246" font-size="18" font-weight="700" fill="#1D1D1F" opacity="0">66<set attributeName="opacity" to="1" begin="1.267s" dur="0.061s"/></text><text class="cnt" x="64" y="246" font-size="18" font-weight="700" fill="#1D1D1F" opacity="0">71<set attributeName="opacity" to="1" begin="1.328s" dur="0.061s"/></text><text class="cnt" x="64" y="246" font-size="18" font-weight="700" fill="#1D1D1F" opacity="0">77<set attributeName="opacity" to="1" begin="1.389s" dur="0.061s"/></text><text class="cnt" x="64" y="246" font-size="18" font-weight="700" fill="#1D1D1F" opacity="0">82<set attributeName="opacity" to="1" begin="1.450s" dur="0.061s"/></text><text class="cnt" x="64" y="246" font-size="18" font-weight="700" fill="#1D1D1F" opacity="0">86<set attributeName="opacity" to="1" begin="1.511s" dur="0.061s"/></text><text class="cnt" x="64" y="246" font-size="18" font-weight="700" fill="#1D1D1F" opacity="0">91<set attributeName="opacity" to="1" begin="1.572s" dur="0.061s"/></text><text class="cnt" x="64" y="246" font-size="18" font-weight="700" fill="#1D1D1F" opacity="0">95<set attributeName="opacity" to="1" begin="1.633s" dur="0.061s"/></text><text class="cnt" x="64" y="246" font-size="18" font-weight="700" fill="#1D1D1F" opacity="0">100<set attributeName="opacity" to="1" begin="1.694s" dur="0.061s"/></text><text class="cnt" x="64" y="246" font-size="18" font-weight="700" fill="#1D1D1F" opacity="0">104<set attributeName="opacity" to="1" begin="1.756s" dur="0.061s"/></text><text class="cnt" x="64" y="246" font-size="18" font-weight="700" fill="#1D1D1F" opacity="0">108<set attributeName="opacity" to="1" begin="1.817s" dur="0.061s"/></text><text class="cnt" x="64" y="246" font-size="18" font-weight="700" fill="#1D1D1F" opacity="0">112<set attributeName="opacity" to="1" begin="1.878s" dur="0.061s"/></text><text class="final" x="64" y="246" font-size="18" font-weight="700" fill="#1D1D1F" opacity="0">116<set attributeName="opacity" to="1" begin="1.939s" fill="freeze"/></text>
+  <text x="103" y="246" font-size="15" fill="#6E6E73">stars</text>
+  <text x="163" y="246" font-size="15" fill="#6E6E73"><tspan font-weight="700" fill="#1D1D1F" font-size="18">8</tspan> forks</text>
+  <text x="248" y="246" font-size="13" fill="#6E6E73">Swift · SwiftUI · macOS 15+ · MIT</text>
+</g>
+<g class="f" style="animation-delay:.5s">
+  <rect x="540" y="34" width="306" height="222" rx="14" fill="#FFFFFF" stroke="#E5E5EA"/>
+  <circle cx="560" cy="54" r="5.5" fill="#FF5F57"/><circle cx="578" cy="54" r="5.5" fill="#FEBC2E"/><circle cx="596" cy="54" r="5.5" fill="#28C840"/>
+  <text x="693" y="58" font-size="12" font-weight="600" text-anchor="middle" fill="#6E6E73">AirCursor</text>
+  <line x1="540" y1="72" x2="846" y2="72" stroke="#E5E5EA"/>
+  <rect x="562" y="92" width="150" height="10" rx="5" fill="#D2D2D7"/>
+  <rect x="562" y="112" width="232" height="8" rx="4" fill="#D2D2D7" opacity=".6"/>
+  <rect x="562" y="128" width="200" height="8" rx="4" fill="#D2D2D7" opacity=".6"/>
+  <rect x="562" y="144" width="216" height="8" rx="4" fill="#D2D2D7" opacity=".6"/>
+  <rect x="610" y="200" width="96" height="30" rx="8" fill="#D2D2D7" opacity=".7"/>
+  <text x="658" y="220" font-size="13" text-anchor="middle" fill="#1D1D1F">Not now</text>
+  <rect x="716" y="200" width="108" height="30" rx="8" fill="#0071E3">
+    <animate attributeName="opacity" values="1;1;.55;1;1" keyTimes="0;.62;.66;.72;1" dur="7s" repeatCount="indefinite"/></rect>
+  <text x="770" y="220" font-size="13" font-weight="600" text-anchor="middle" fill="#fff">Continue</text>
+  <circle cx="752" cy="218" r="15" fill="none" stroke="#0071E3" stroke-width="3" stroke-linecap="round"
+    stroke-dasharray="94.25" stroke-dashoffset="94.25" transform="rotate(-90 752 218)" opacity="0">
+    <animate attributeName="stroke-dashoffset" values="94.25;94.25;0;0;94.25" keyTimes="0;.36;.62;.7;1" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.35;.37;.66;.7;1" dur="7s" repeatCount="indefinite"/>
+  </circle>
+  
+<g>
+  <animateTransform attributeName="transform" type="translate" dur="7s" repeatCount="indefinite"
+    values="600 120;600 120;748 214;748 214;748 214;640 150;600 120" keyTimes="0;.08;.35;.62;.7;.9;1"
+    calcMode="spline" keySplines=".4 0 .2 1;.4 0 .2 1;0 0 1 1;0 0 1 1;.4 0 .2 1;.4 0 .2 1"/>
+  <path d="M0 0v17l4.6-4.3 3.1 6.7 2.6-1.1-3-6.6h6.4z" fill="#1D1D1F" stroke="#FFFFFF" stroke-width="1.3" stroke-linejoin="round"/>
+</g>
+</g>
+</svg>
