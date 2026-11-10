@@ -1,43 +1,35 @@
-<div align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="./cards/hero-dark.svg"><img src="./cards/hero-light.svg" width="100%" alt="Muhammad Afham, Lead iOS & macOS Engineer and Mobile Architecture Specialist. 7+ years, 25+ apps shipped. Available for contract and consulting work."></picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./cards/hero-dark.svg">
-  <img src="./cards/hero-light.svg" width="100%" alt="Muhammad Afham, Lead iOS & macOS Engineer and Mobile Architecture Specialist. 7+ years, 25+ apps shipped. Available for contract and consulting work.">
-</picture>
+<p align="center">
+  <a href="mailto:m.afham.work@gmail.com?subject=Hiring%20inquiry"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/btn-hire-dark.svg"><img src="./cards/btn-hire-light.svg" alt="Hire Me"></picture></a>
+  <a href="https://topmate.io/m_afham"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/btn-book-dark.svg"><img src="./cards/btn-book-light.svg" alt="Book a 1:1"></picture></a>
+</p>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=m-afham&style=flat&color=1D1D1F)](https://github.com/m-afham)
-[![Website](https://img.shields.io/badge/mafham.dev-1D1D1F?style=flat&logo=safari&logoColor=white)](https://mafham.dev)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-1D1D1F?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/8451247/m-afham?tab=profile)
-[![Email](https://img.shields.io/badge/Email-1D1D1F?style=flat&logo=gmail&logoColor=white)](mailto:m.afham.work@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1D1D1F?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-afham)
+<p align="center">
+  <a href="https://github.com/m-afham"><img src="https://komarev.com/ghpvc/?username=m-afham&style=flat&color=1D1D1F" alt="Profile Views"></a>
+  <a href="https://mafham.dev"><img src="https://img.shields.io/badge/mafham.dev-1D1D1F?style=flat&logo=safari&logoColor=white" alt="Website"></a>
+  <a href="https://stackoverflow.com/users/8451247/m-afham?tab=profile"><img src="https://img.shields.io/badge/Stack_Overflow-1D1D1F?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow"></a>
+  <a href="mailto:m.afham.work@gmail.com"><img src="https://img.shields.io/badge/Email-1D1D1F?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/m-afham"><img src="https://img.shields.io/badge/LinkedIn-1D1D1F?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
-<a href="https://mafham.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/tile-apps-dark.svg"><img src="./cards/tile-apps-light.svg" width="32.5%" alt="25+ apps shipped"></picture></a>
-<a href="https://www.linkedin.com/in/m-afham"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/tile-years-dark.svg"><img src="./cards/tile-years-light.svg" width="32.5%" alt="7+ years on Apple platforms"></picture></a>
-<a href="https://github.com/m-afham?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/tile-repos-dark.svg"><img src="./cards/tile-repos-light.svg" width="32.5%" alt="Public repositories"></picture></a>
-
-</div>
+<a href="https://mafham.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/tile-apps-dark.svg"><img src="./cards/tile-apps-light.svg" width="50%" alt="25+ apps shipped"></picture></a><a href="https://www.linkedin.com/in/m-afham"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/tile-years-dark.svg"><img src="./cards/tile-years-light.svg" width="50%" alt="7+ years on Apple platforms"></picture></a>
 
 ## Featured
 
 <a href="https://github.com/m-afham/AirCursor"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/spotlight-dark.svg"><img src="./cards/spotlight-light.svg" width="100%" alt="AirCursor: use your AirPods as a mouse on macOS. Turn your head to point, rest on a button to click."></picture></a>
 
 <p align="center">
-  <a href="https://github.com/m-afham/AirCursor/releases/latest/download/AirCursor.zip"><img src="https://img.shields.io/badge/Download_for_Mac-AirCursor.zip-0A84FF?style=for-the-badge&logo=apple&logoColor=white" alt="Download AirCursor for Mac"></a>
+  <a href="https://github.com/m-afham/AirCursor/releases/latest/download/AirCursor.zip"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/btn-download-dark.svg"><img src="./cards/btn-download-light.svg" alt="Download AirCursor for Mac"></picture></a>
 </p>
 
 ## More work
 
-<a href="https://github.com/m-afham/Twinly"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/repo-twinly-dark.svg"><img src="./cards/repo-twinly-light.svg" width="49%" alt="Twinly"></picture></a>
-<a href="https://github.com/m-afham/SmartSim"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/repo-smartsim-dark.svg"><img src="./cards/repo-smartsim-light.svg" width="49%" alt="SmartSim"></picture></a>
-<a href="https://github.com/m-afham/SwiftCleanCode"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/repo-swiftcleancode-dark.svg"><img src="./cards/repo-swiftcleancode-light.svg" width="49%" alt="SwiftCleanCode"></picture></a>
-<a href="https://github.com/m-afham/SensorMotionEffect"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/repo-sensormotioneffect-dark.svg"><img src="./cards/repo-sensormotioneffect-light.svg" width="49%" alt="SensorMotionEffect"></picture></a>
-<a href="https://github.com/m-afham/InstagramStoryView"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/repo-instagramstoryview-dark.svg"><img src="./cards/repo-instagramstoryview-light.svg" width="49%" alt="InstagramStoryView"></picture></a>
-<a href="https://github.com/m-afham/SmileToUnlock"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/repo-smiletounlock-dark.svg"><img src="./cards/repo-smiletounlock-light.svg" width="49%" alt="SmileToUnlock"></picture></a>
+<a href="https://github.com/m-afham/Twinly"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/repo-twinly-dark.svg"><img src="./cards/repo-twinly-light.svg" width="50%" alt="Twinly"></picture></a><a href="https://github.com/m-afham/SmartSim"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/repo-smartsim-dark.svg"><img src="./cards/repo-smartsim-light.svg" width="50%" alt="SmartSim"></picture></a>
+<a href="https://github.com/m-afham/SwiftCleanCode"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/repo-swiftcleancode-dark.svg"><img src="./cards/repo-swiftcleancode-light.svg" width="50%" alt="SwiftCleanCode"></picture></a><a href="https://github.com/m-afham/SensorMotionEffect"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/repo-sensormotioneffect-dark.svg"><img src="./cards/repo-sensormotioneffect-light.svg" width="50%" alt="SensorMotionEffect"></picture></a>
+<a href="https://github.com/m-afham/InstagramStoryView"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/repo-instagramstoryview-dark.svg"><img src="./cards/repo-instagramstoryview-light.svg" width="50%" alt="InstagramStoryView"></picture></a><a href="https://github.com/m-afham/SmileToUnlock"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/repo-smiletounlock-dark.svg"><img src="./cards/repo-smiletounlock-light.svg" width="50%" alt="SmileToUnlock"></picture></a>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./cards/activity-dark.svg">
-  <img src="./cards/activity-light.svg" width="100%" alt="GitHub contributions per month over the last year">
-</picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./cards/activity-dark.svg"><img src="./cards/activity-light.svg" width="100%" alt="GitHub contributions per month over the last year"></picture>
 
 ---
 
@@ -190,10 +182,11 @@ Always happy to talk iOS architecture, accessibility, AI-assisted development, o
 
 <div align="center">
 
-[![Book a 1:1](https://img.shields.io/badge/Book_a_1:1-Topmate-FF3B30?style=for-the-badge&logo=googlemeet&logoColor=white)](https://topmate.io/m_afham)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/mafham)
-
-<br>
+<p>
+  <a href="mailto:m.afham.work@gmail.com?subject=Hiring%20inquiry"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/btn-hire-dark.svg"><img src="./cards/btn-hire-light.svg" alt="Hire Me"></picture></a>
+  <a href="https://topmate.io/m_afham"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/btn-book-dark.svg"><img src="./cards/btn-book-light.svg" alt="Book a 1:1"></picture></a>
+  <a href="https://www.buymeacoffee.com/mafham"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/btn-coffee-dark.svg"><img src="./cards/btn-coffee-light.svg" alt="Buy Me a Coffee"></picture></a>
+</p>
 
 *"Building the future of mobile experiences, one commit at a time."*
 
